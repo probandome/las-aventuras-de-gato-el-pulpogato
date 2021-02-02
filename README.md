@@ -16,3 +16,8 @@ Cada día al inicio de la mañana, por aquel momento en el que el sol empieza a 
 horizonte y se divisan los primeros rayos de luz, el gallo del corral comenzaba a despertar a todo el 
 vecindario. Quizás dos e incluso tres manzanas alrededor de aquel destartalado gallinero podía resonar
 su rotundo kikiriki.
+
+## Al sexto día
+No pudimos ver lo que realmente ocurrió pero se rumoreaba por el vecindario que aquel día un desgraciado
+suceso ocurriría de la mano de uno de los tres chicos de la vieja casa de la esquina, desde donde se escuchaba
+más nítidamente el sonido del gallo.
