@@ -10,3 +10,9 @@ asemejaba a una especie de pulpogato.
 Aquella fría mañana de enero nos encontrabamos arriba del cerro más alto de nuestra finca, desde la ladera
 desde la que se divisaba el poblado donde desde pequeña disfrutaba las vacaciones de verano junto a mis 
 abuelos, primos y tíos, además de un buen elenco de amigos y amigas que poco a poco fui creando.
+
+## Continuando...
+Cada día al inicio de la mañana, por aquel momento en el que el sol empieza a despuntar en el 
+horizonte y se divisan los primeros rayos de luz, el gallo del corral comenzaba a despertar a todo el 
+vecindario. Quizás dos e incluso tres manzanas alrededor de aquel destartalado gallinero podía resonar
+su rotundo kikiriki.
